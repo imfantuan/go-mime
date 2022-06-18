@@ -1359,4 +1359,6 @@ var extensionToMIME = map[string]string{
     "zmm": "application/vnd.HandHeld-Entertainment+xml",
     "zone": "text/dns",
     "zst": "application/zstd",
+    "py": "text/x-python",
+    "lua": "text/x-lua",
 }
